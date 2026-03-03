@@ -112,6 +112,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
     - [5.3 Challenge & Discussion](#53-Challenge--Discussion)
   - [6. Communication & Collaboration Mechanisms](#6-Communication--Collaboration-Mechanisms)
   - [7. Others](#7-Others)
+  - [8. 3D Medical Agents](#8-3D-Medical-Agents)
 
 # ✨ Latest Papers
 ## 🚀 Year-2025
@@ -171,7 +172,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Cod, towards an interpretable medical agent using chain of diagnosis](https://aclanthology.org/2025.findings-acl.740.pdf) | [GitHub](https://github.com/FreedomIntelligence/Chain-of-Diagnosis) | capability, application, safety, evaluation, other |
 | [Code Like Humans: A Multi-Agent Solution for Medical Coding](https://arxiv.org/abs/2509.05378) | [GitHub](https://github.com/MotzWanted/codeseeker) | application |
 | [Conversational health agents: a personalized large language model-powered agent framework](https://arxiv.org/pdf/2310.02374) | [GitHub](https://github.com/Institute4FutureHealth/CHA) | safety |
-| [CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering](https://arxiv.org/abs/2505.16229) | Not Available | application |
+| [CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering](https://arxiv.org/abs/2505.16229) | Not Available | application, 3D |
 | [Data Overdose? Time for a Quadruple Shot: Knowledge Graph Construction Using Enhanced Triple Extraction](https://arxiv.org/abs/2508.03438) | Not Available | task |
 | [Data Poisoning Vulnerabilities Across Healthcare AI Architectures: A Security Threat Analysis](https://arxiv.org/abs/2511.11020) | Not Available | safety |
 | [Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines](https://arxiv.org/abs/2502.15698) | Not Available | intro, capability, other |
@@ -439,13 +440,13 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [A grounded well-being conversational agent with multiple interaction modes: Preliminary results](https://arxiv.org/abs/2111.14083) | Not available | capability, application |
 | [Adaptable image quality assessment using meta-reinforcement learning of task amenability](https://arxiv.org/abs/2108.04359) | [GitHub](https://github.com/s-sd/task-amenability) | capability |
 | [An Edge Based Multi-Agent Model for Improving Hospital Bed Management](https://ieeexplore.ieee.org/document/9678487) | Not available | task |
-| [Cross Modality 3D Navigation Using Reinforcement Learning and Neural Style Transfer](https://arxiv.org/abs/2111.03485) | Not available | capability |
+| [Cross Modality 3D Navigation Using Reinforcement Learning and Neural Style Transfer](https://arxiv.org/abs/2111.03485) | Not available | capability, 3D |
 | [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805) | [GitHub](https://github.com/ftramer/LM_Memorization) | safety |
 | [Human-AI collaboration in healthcare: A review and research agenda](https://scholarspace.manoa.hawaii.edu/items/48162f4c-8c99-47dc-8fb5-fe74e9cbb51d) | Not available | task |
 | [Levels of autonomy and safety assurance for AI-Based clinical decision systems](https://link.springer.com/chapter/10.1007/978-3-030-83906-2_24) | Not available | safety |
 | [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300) | [GitHub](https://github.com/hendrycks/test) | evaluation |
 | [Autonomous systems and artificial intelligence in healthcare transformation to 5P medicine--ethical challenges](https://pubmed.ncbi.nlm.nih.gov/32570549/) | Not available | intro |
-| [Boundary-aware supervoxel-level iteratively refined interactive 3d image segmentation with multi-agent reinforcement learning](https://arxiv.org/abs/2303.10692) | Not available | task |
+| [Boundary-aware supervoxel-level iteratively refined interactive 3d image segmentation with multi-agent reinforcement learning](https://arxiv.org/abs/2303.10692) | Not available | task, 3D |
 | [MedDialog: A Large-scale Medical Dialogue Dataset](https://arxiv.org/abs/2004.03329) | Not available | evaluation |
 | [Medical visual question answering via conditional reasoning](https://ieeexplore.ieee.org/document/9999450/) | [GitHub](https://github.com/Awenbocc/med-vqa) | task |
 | [PathVQA: 30000+ Questions for Medical Visual Question Answering](https://arxiv.org/abs/2003.10286) | [GitHub](https://github.com/UCSD-AI4H/PathVQA) | evaluation |
@@ -936,6 +937,15 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Upper processing stages of the perception--action cycle](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(04)00047-6) | Not Available | 2023 |
 | [A survey on large language model based autonomous agents](https://link.springer.com/content/pdf/10.1007/s11704-024-40231-1.pdf) | Not Available | 2024 |
 | [Tool learning with large language models: A survey](https://arxiv.org/abs/2405.17935) | [GitHub](https://github.com/quchangle1/LLM-Tool-Survey) | 2025 |
+
+
+## 🚀 8. 3D Medical Agents
+
+| Title | GitHub | Year |
+| --- | --- | --- |
+| [CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering](https://arxiv.org/abs/2505.16229) | Not Available | 2025 |
+| [Cross Modality 3D Navigation Using Reinforcement Learning and Neural Style Transfer](https://arxiv.org/abs/2111.03485) | Not Available | 2023 |
+| [Boundary-aware supervoxel-level iteratively refined interactive 3d image segmentation with multi-agent reinforcement learning](https://arxiv.org/abs/2303.10692) | Not Available | 2023 |
 
 
 ## Citation
