@@ -57,7 +57,7 @@ Medical Agents, Clinical Workflows, Safety, Governance and Evaluation
 
 ## 🔥 News
 
-**[2026/03/03]** 🆕 We added a dedicated **[3D Medical Agents](#8-3D-Medical-Agents)** section! Covers CT-Agent, Cross-Modality 3D Navigation, and Boundary-aware 3D Segmentation.
+**[2026/03/03]** 🆕 We added a dedicated **[3D Medical Agents](#8-3d-medical-agents)** section! Covers CT-Agent, Cross-Modality 3D Navigation, and Boundary-aware 3D Segmentation.
 
 **[2025/11/30]** We release the initial github  repo!
 
@@ -75,7 +75,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 
 ## 🧊 3D Medical Agents — Quick Reference
 
-> **Looking for 3D medical agent papers?** Jump straight to the dedicated section: [**➡ 8. 3D Medical Agents**](#8-3D-Medical-Agents)
+> **Looking for 3D medical agent papers?** Jump straight to the dedicated section: [**➡ 8. 3D Medical Agents**](#8-3d-medical-agents)
 >
 > | Paper | Year |
 > | --- | --- |
@@ -124,7 +124,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
     - [5.3 Challenge & Discussion](#53-Challenge--Discussion)
   - [6. Communication & Collaboration Mechanisms](#6-Communication--Collaboration-Mechanisms)
   - [7. Others](#7-Others)
-  - [8. 3D Medical Agents](#8-3D-Medical-Agents)
+  - [8. 3D Medical Agents](#8-3d-medical-agents)
 
 # ✨ Latest Papers
 ## 🚀 Year-2025
