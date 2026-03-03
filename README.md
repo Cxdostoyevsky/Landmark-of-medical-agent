@@ -57,6 +57,8 @@ Medical Agents, Clinical Workflows, Safety, Governance and Evaluation
 
 ## 🔥 News
 
+**[2026/03/03]** 🆕 We added a dedicated **[3D Medical Agents](#8-3D-Medical-Agents)** section! Covers CT-Agent, Cross-Modality 3D Navigation, and Boundary-aware 3D Segmentation.
+
 **[2025/11/30]** We release the initial github  repo!
 
 ## 🌟 Contributing 
@@ -70,6 +72,16 @@ We will try to keep this list updated. If you find any errors or any missed pape
 ## 🤝 Main Contacts
 
 - Xiaobin Hu - ben0xiaobin0hu1@nus.edu.sg
+
+## 🧊 3D Medical Agents — Quick Reference
+
+> **Looking for 3D medical agent papers?** Jump straight to the dedicated section: [**➡ 8. 3D Medical Agents**](#8-3D-Medical-Agents)
+>
+> | Paper | Year |
+> | --- | --- |
+> | [CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering](https://arxiv.org/abs/2505.16229) | 2025 |
+> | [Cross Modality 3D Navigation Using Reinforcement Learning and Neural Style Transfer](https://arxiv.org/abs/2111.03485) | 2023 |
+> | [Boundary-aware supervoxel-level iteratively refined interactive 3d image segmentation with multi-agent reinforcement learning](https://arxiv.org/abs/2303.10692) | 2023 |
 
 ## 🌟 Table of Contents
 
