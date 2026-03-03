@@ -951,6 +951,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Tool learning with large language models: A survey](https://arxiv.org/abs/2405.17935) | [GitHub](https://github.com/quchangle1/LLM-Tool-Survey) | 2025 |
 
 
+<a id="8-3d-medical-agents"></a>
 ## 🚀 8. 3D Medical Agents
 
 | Title | GitHub | Year |
